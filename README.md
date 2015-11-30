@@ -3,6 +3,7 @@
 Included distro packages:
 
 * Freetds (freetds-common, freetds-dev)
+* LibGDAL
 
 Included python packages:
 
